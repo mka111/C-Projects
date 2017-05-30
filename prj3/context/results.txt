@@ -1,0 +1,5 @@
+Results of Measure cost :
+Thread-switch : 160273 nanoseconds.
+Process-switch: 698846920 nanoseconds
+Empty- function: 170.564400 nanoseconds
+System function: 168.867400 nanoseconds
